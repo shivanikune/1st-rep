@@ -1,2 +1,3 @@
 print("hello word")
-print("this is my 1st repo")
+print("this is my 1st pull")
+print("from rep")
